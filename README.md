@@ -1,2 +1,2 @@
 # Small-models-reasoning
-JetBrains prkasa
+JetBrains praksa
